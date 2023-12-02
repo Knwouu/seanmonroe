@@ -1,5 +1,5 @@
 # sean monroe's calpoly github
-## overview:
+## projects:
 
 1. retail analytics
 2. business intelligence
